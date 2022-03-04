@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Time Series and Deep Learning
 - 🌱 I’m currently learning Machine Learing, Deep Learning and Data Science in general
 - 📫 How to reach me:
-    - [LinkedIn](www.linkedin.com/in/simone-riccardo-pozzoli-455b2518b)
+    - [LinkedIn](https://www.linkedin.com/in/simone-riccardo-pozzoli-455b2518b)
